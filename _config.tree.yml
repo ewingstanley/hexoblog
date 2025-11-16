@@ -11,7 +11,7 @@ favicon: /favicon.ico
 
 ####### header bar #####
 # before set to true, please maker sure you've created hexo tags\categories\about pages
-tags: true
+tags: false
 categories: false
 about: false
 links:
