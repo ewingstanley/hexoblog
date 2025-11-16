@@ -42,7 +42,7 @@ giscus:
   emit_metadata: "0"
   input_position: "top"
   theme: "preferred_color_scheme"
-  lang: "en"
+  lang: "zh-Hans"
 # optional, valine
 valine:
   enableComment: false
